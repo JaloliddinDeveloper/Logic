@@ -62,7 +62,6 @@
             Console.WriteLine("null");
         }
 
-
         public void PrintOdd()
         {
             Node current = Head;
@@ -100,8 +99,5 @@
                 current = current.Next;
             }
         }
-
-
-       
     }
 }
